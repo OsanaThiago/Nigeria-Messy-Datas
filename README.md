@@ -1,5 +1,5 @@
 # Tratando Dados - Análise de Vendas da Nigéria
-Este projeto realiza a análise e limpeza de um conjunto de dados de vendas da Nigéria, contendo informações sobre clientes, produtos, unidades vendidas, preços, datas de venda, canais de vendas e IDs de pedido.
+Este projeto realiza a análise e limpeza de um conjunto de dados extremamente problemático de vendas da Nigéria, contendo informações sobre clientes, produtos, unidades vendidas, preços, datas de venda, canais de vendas e IDs de pedido.
 
 ## 📋 Descrição do Projeto
 O notebook tratandodados.ipynb contém um processo completo de limpeza e preparação de dados, incluindo:
