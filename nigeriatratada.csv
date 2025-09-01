@@ -1,0 +1,551 @@
+,Customer Name,State,Product,Units Sold,Unit Price,Total Sale,Sale Date,Sales Channel
+0,Nao informado,rivers,Keyboard,56,687.54,38502.4,2025-04-27,Online
+1,Allison Hill,Lagos,Headphones,50,289.43,14471.55,2024-03-15,Wholesale
+2,Noah Rhodes,Anambra,Keyboard,56,152.51,8540.67,2024-12-10,Nao informado
+3,Angie Henderson,Delta,Keyboard,56,1006.0,56336.1,2024-04-05,Nao informado
+4,Daniel Wagner,Delta,Tablet,43,345.24,14845.28,2025-01-12,Nao informado
+5,Cristian Santos,Oyo,Camera,36,425.48,15317.41,2023-08-30,Direct
+6,Connie Lawrence,Rivers,Tablet,36,666.51,23994.39,2024-09-10,Wholesale
+7,Abigail Shaffer,Imo,Keyboard,56,910.29,50976.43,2024-09-04,Online
+8,Gina Moore,Kano,Camera,36,641.95,23110.34,2024-02-21,Wholesale
+9,Gabrielle Davis,plateau,Tablet,43,548.79,23597.84,2025-06-02,Direct
+10,Ryan Munoz,Niger,Keyboard,56,687.54,38502.4,2024-02-28,Direct
+11,Monica Herrera,Abuja,Laptop,3,551.37,1654.12,2025-05-02,Retail
+12,Jamie Arnold,Lagos,Tablet,43,529.95,22787.96,2023-11-10,Wholesale
+13,Nao informado,Kano,Camera,36,608.74,21914.82,2025-01-13,Nao informado
+14,Lisa Hensley,Enugu,Tablet,27,513.83,13873.39,2025-01-12,Direct
+15,Michele Williams,Delta,Charger,46,19.74,908.04,2025-06-30,Direct
+16,Dylan Miller,Bauchi,Charger,46,35.89,1651.124,2025-01-04,Retail
+17,Brian Ramirez,Katsina,Laptop,28,119.98,3359.32,2024-11-17,Nao informado
+18,Holly Wood,lagos,Headphones,43,135.27,5816.739,2023-11-23,Direct
+19,Derek Zuniga,Imo,Headphones,77,333.54,25682.58,2025-03-18,Online
+20,Lisa Jackson,Enugu,Camera,36,450.51,16218.53,2024-04-16,Nao informado
+21,Carla Gray,Imo,Monitor,36,970.85,34950.63,2024-08-09,Wholesale
+22,Margaret Hawkins DDS,Niger,Headphones,33,282.63,9326.789999999999,2024-01-01,Retail
+23,Patty Perez,Delta,Camera,36,680.27,24489.67,2023-10-13,Online
+24,Ethan Adams,Ekiti,Laptop,4,645.39,2581.55,2023-12-14,Online
+25,Tommy Walter,Plateau,Monitor,36,288.09,10371.42,2025-03-17,Wholesale
+26,Nao informado,Anambra,Monitor,36,708.66,25511.7,2023-10-26,Retail
+27,Matthew Foster,lagos,Charger,42,104.99,4409.454,2024-01-10,Direct
+28,Judy Baker,Kaduna,Keyboard,56,625.51,35028.62,2025-03-15,Retail
+29,Justin Baker,Niger,Monitor,7,247.14,1729.96,2024-07-28,Direct
+30,Stephanie Ross,Sokoto,Phone,57,635.62,36230.3,2023-07-31,Wholesale
+31,Zachary Hicks,Anambra,Camera,68,57.17,3887.64,2024-04-16,Wholesale
+32,Anthony Rodriguez,Oyo,Monitor,96,519.82,49902.71,2024-09-13,Online
+33,Rebecca Henderson,Enugu,Monitor,36,567.03,20412.98,2024-09-27,Online
+34,James Ferrell,Sokoto,Phone,57,779.38,44424.62,2024-04-22,Online
+35,Tricia Valencia,Rivers,Monitor,36,836.98,30131.29,2024-07-08,Wholesale
+36,Nathan Maldonado,kano,Keyboard,56,411.72,23056.39,2025-03-26,Direct
+37,Debra Davidson,Benue,Phone,65,887.72,57701.49,2024-09-11,Wholesale
+38,Jeffrey Chavez,Rivers,Charger,79,26.29,2077.226,2023-10-19,Wholesale
+39,Nao informado,Osun,Tablet,43,619.15,26623.25,2024-10-28,Online
+40,Sherri Baker,Osun,Monitor,36,510.29,18370.26,2025-05-27,Retail
+41,Cassandra Gaines,Katsina,Monitor,36,757.1,27255.66,2023-09-15,Online
+42,Elizabeth Fowler,Anambra,Camera,4,207.5,830.01,2023-08-31,Retail
+43,Brittany Farmer,Abuja,Keyboard,56,477.33,26730.36,2024-03-07,Direct
+44,Paula Moreno,Ekiti,Camera,36,453.33,16319.84,2024-05-15,Direct
+45,Fred Smith,imo,Tablet,43,447.05,19223.3,2025-01-17,Nao informado
+46,Sherry Decker,Rivers,Monitor,36,221.64,7978.9,2025-01-19,Nao informado
+47,Anthony Humphrey,Benue,Keyboard,10,542.86,5428.62,2024-07-16,Nao informado
+48,Angelica Tucker,Kano,Phone,57,661.1,37682.45,2024-08-22,Direct
+49,Philip Cannon,Imo,Monitor,19,510.29,9695.42,2024-05-25,Online
+50,John Pierce,Borno,Charger,46,52.64,2421.6240000000003,2025-02-27,Online
+51,Shane Henderson,Katsina,Monitor,36,916.52,32994.72,2024-05-24,Online
+52,Nao informado,Osun,Headphones,50,235.82,11791.2,2025-04-10,Wholesale
+53,Joshua Blair,Plateau,Keyboard,56,762.77,42714.94,2024-09-29,Nao informado
+54,Eric Carney,enugu,Headphones,50,168.31,8415.599999999999,2023-09-06,Online
+55,Jessica Holmes,Kano,Phone,57,606.55,34573.24,2023-10-16,Nao informado
+56,Danny Morgan,Abuja,Monitor,36,1077.98,38807.14,2024-03-13,Nao informado
+57,Crystal Robinson,Delta,Phone,57,517.58,29502.04,2024-11-20,Wholesale
+58,Mark Perez,Borno,Laptop,33,408.09,13467.05,2023-09-06,Direct
+59,Shannon Jones,Kano,Monitor,36,1033.3,37198.74,2024-06-24,Online
+60,Michael Lewis,Delta,Headphones,50,163.49,8174.250000000001,2024-07-06,Wholesale
+61,Timothy Duncan,Rivers,Keyboard,93,497.41,46259.06,2024-12-20,Direct
+62,Richard Aguirre,Benue,Headphones,50,172.99,8649.3,2024-08-15,Direct
+63,Brent Jordan,anambra,Phone,57,590.79,33675.13,2024-04-03,Online
+64,John Daniel,Ekiti,Tablet,43,730.52,31412.42,2023-10-18,Nao informado
+65,Nao informado,Osun,Monitor,36,937.3,33742.98,2025-05-22,Retail
+66,Victoria Garcia,Kaduna,Charger,94,73.58,6916.332,2025-04-14,Nao informado
+67,Gerald Hensley,Osun,Camera,36,868.3,31258.73,2025-03-08,Nao informado
+68,Connor West,Osun,Keyboard,56,286.84,16062.78,2024-09-11,Retail
+69,Donald Wright,Enugu,Charger,46,52.38,2409.664,2024-11-18,Direct
+70,Jessica Callahan,Anambra,Charger,46,52.64,2421.6240000000003,2024-10-09,Retail
+71,Amber Kidd,Kano,Monitor,61,1034.0,63074.07,2023-11-29,Retail
+72,Tracy House,katsina,Tablet,12,302.62,3631.5,2025-02-26,Wholesale
+73,Carol Tucker,Kaduna,Monitor,36,323.64,11651.1,2023-10-19,Wholesale
+74,James Brown,Imo,Tablet,43,1016.91,43727.12,2024-06-11,Wholesale
+75,William Baker,Delta,Laptop,33,1060.87,35008.81,2024-08-04,Direct
+76,Jordan Henderson,Kaduna,Keyboard,56,833.28,46663.68,2025-06-17,Retail
+77,Whitney Peters,Ekiti,Phone,57,761.82,43423.98,2025-05-15,Online
+78,Nao informado,Benue,Phone,57,746.02,42522.95,2023-08-23,Retail
+79,Brittney Phillips,Anambra,Charger,46,52.9,2433.584,2025-04-16,Direct
+80,Lauren Daniels,Imo,Camera,36,450.51,16218.53,2023-10-15,Wholesale
+81,Amy Silva,delta,Laptop,33,519.12,17131.09,2024-08-16,Direct
+82,Sarah Moore,Sokoto,Phone,57,606.12,34548.71,2023-11-06,Wholesale
+83,Angela Lopez,Abuja,Phone,93,1009.36,93870.68,2024-03-03,Direct
+84,Megan Young,Delta,Camera,36,779.9,28076.35,2023-11-15,Online
+85,Steve Sanchez,Abuja,Camera,36,312.09,11235.4,2023-11-13,Wholesale
+86,Lisa Barnes,Sokoto,Phone,57,620.12,35346.99,2024-03-17,Wholesale
+87,Kelly Donovan,Benue,Headphones,65,176.24,11455.665,2025-07-06,Retail
+88,Mike Allen,Anambra,Camera,36,967.61,34833.92,2025-01-11,Direct
+89,Michael Evans,Kano,Headphones,62,128.15,7945.548,2024-01-02,Nao informado
+90,Paul Jones,enugu,Keyboard,56,687.54,38502.4,2024-04-04,Nao informado
+91,Nao informado,Plateau,Laptop,33,373.92,12339.5,2025-07-10,Retail
+92,Zachary Ferrell,Sokoto,Camera,36,835.32,30071.45,2024-08-17,Direct
+93,Daniel Baker,Enugu,Keyboard,74,159.73,11820.06,2025-06-05,Online
+94,Shirley Suarez,Cross River,Tablet,43,47.16,2027.71,2024-02-16,Retail
+95,Christopher Bass,Benue,Charger,46,103.18,4746.372,2025-04-28,Wholesale
+96,Lisa Archer,Ekiti,Headphones,50,87.01,4350.5,2023-09-10,Online
+97,Aimee Montoya,Oyo,Laptop,33,998.07,32936.22,2024-01-21,Direct
+98,Matthew Mcmillan,Anambra,Headphones,50,212.72,10636.05,2023-12-10,Wholesale
+99,Brian Rodriguez,oyo,Tablet,43,807.58,34725.96,2024-11-15,Nao informado
+100,Denise Jacobs,Delta,Laptop,35,519.12,18169.34,2024-09-10,Direct
+101,Christina Walters,Imo,Phone,57,232.52,13253.67,2024-02-09,Wholesale
+102,John Whitehead,Imo,Tablet,43,894.5,38463.39,2023-10-16,Direct
+103,Anna Henderson,Anambra,Monitor,36,294.14,10588.87,2024-11-07,Wholesale
+104,Nao informado,Plateau,Monitor,1,607.77,607.77,2024-03-02,Direct
+105,Aaron Wise,Niger,Camera,36,294.66,10607.84,2024-10-30,Nao informado
+106,Deborah Figueroa,Plateau,Laptop,33,119.57,3945.75,2024-08-28,Retail
+107,Jessica Smith,Benue,Camera,9,800.63,7205.66,2023-09-21,Wholesale
+108,Stephen Mckee,osun,Laptop,33,259.79,8573.2,2024-08-04,Wholesale
+109,Sandra Aguilar,Delta,Tablet,4,56.54,226.14,2024-11-19,Nao informado
+110,Cameron Parker,Oyo,Laptop,33,519.12,17131.09,2023-11-18,Retail
+111,Rebecca Valencia,Bauchi,Phone,57,977.77,55732.87,2024-10-12,Direct
+112,Christine Wright,Cross River,Charger,46,24.51,1127.5520000000001,2024-10-04,Wholesale
+113,Richard Henson,Kano,Monitor,44,252.84,11125.15,2023-11-07,Retail
+114,Marc Moore,Abuja,Charger,46,109.83,5052.18,2023-11-20,Direct
+115,Sharon Cherry,Rivers,Laptop,33,357.92,11811.45,2024-12-03,Wholesale
+116,Sierra Johnson,Oyo,Charger,46,51.12,2351.29,2024-11-07,Wholesale
+117,Nao informado,kaduna,Phone,77,736.26,56692.11,2025-01-20,Direct
+118,Evelyn Galvan,Niger,Monitor,7,150.02,1050.12,2025-06-10,Nao informado
+119,Sharon Cochran,Katsina,Keyboard,56,1041.74,58337.67,2024-10-23,Retail
+120,Richard Rodriguez,Kano,Laptop,33,519.12,17131.09,2024-03-29,Wholesale
+121,Shannon Walker,Benue,Monitor,36,1056.18,38022.6,2025-04-25,Direct
+122,Julia Torres,Benue,Charger,46,172.09,7916.14,2025-06-27,Wholesale
+123,Crystal Johnson,Katsina,Keyboard,56,705.75,39521.94,2024-09-20,Direct
+124,Garrett Lin,Ekiti,Headphones,50,285.39,14269.649999999998,2023-08-11,Wholesale
+125,Diana May,Bauchi,Monitor,36,514.7,18529.18,2025-04-11,Online
+126,William Herrera,anambra,Headphones,50,210.96,10548.15,2025-05-11,Nao informado
+127,Ashley Waller,Imo,Tablet,43,816.82,35123.4,2023-08-02,Retail
+128,Victor Baker,Lagos,Keyboard,56,311.51,17444.43,2023-09-12,Nao informado
+129,Jeffrey Chandler,Rivers,Keyboard,56,309.53,17333.95,2023-08-15,Nao informado
+130,Nao informado,Imo,Monitor,36,510.29,18370.26,2024-11-20,Retail
+131,Larry Dixon,Anambra,Tablet,43,65.59,2820.33,2025-02-28,Nao informado
+132,Kenneth Scott,Sokoto,Charger,46,83.06,3820.9440000000004,2024-09-30,Online
+133,April Frost,Rivers,Camera,6,705.11,4230.65,2024-02-01,Direct
+134,Michelle Harmon,Borno,Laptop,33,252.18,8321.93,2024-11-27,Retail
+135,Helen Jones,niger,Tablet,8,798.25,6386.01,2023-12-21,Direct
+136,Erin Edwards,Kaduna,Keyboard,56,918.63,51443.23,2025-02-25,Wholesale
+137,Michelle Evans,Ekiti,Camera,28,42.01,1176.42,2024-09-27,Online
+138,Jason Powell,Lagos,Keyboard,56,995.33,55738.47,2024-05-29,Direct
+139,Cameron Fisher,Anambra,Monitor,36,452.36,16285.09,2024-11-02,Direct
+140,Megan Orr,Bauchi,Charger,16,52.64,842.3040000000001,2024-11-18,Retail
+141,Elizabeth Kelley,Kaduna,Phone,57,904.91,51579.62,2023-08-03,Wholesale
+142,Dustin Jordan,Bauchi,Keyboard,56,1008.76,56490.3,2024-07-31,Retail
+143,Nao informado,Rivers,Charger,46,40.98,1885.08,2025-05-31,Wholesale
+144,Mary Marshall,borno,Headphones,50,271.02,13550.85,2024-11-09,Retail
+145,Daniel Kennedy,Bauchi,Keyboard,56,851.38,47677.23,2024-09-06,Direct
+146,Rebecca Jackson,Katsina,Camera,36,202.68,7296.52,2024-02-20,Direct
+147,Jose Schultz,Enugu,Charger,46,80.94,3723.148,2024-11-20,Online
+148,Robert Potter,Oyo,Tablet,43,942.3,40519.06,2024-03-01,Direct
+149,Courtney Gonzalez,Osun,Charger,46,31.39,1443.94,2024-07-20,Nao informado
+150,David Alvarez,Kaduna,Tablet,43,573.24,24649.2,2024-01-17,Direct
+151,Angel Perry,Imo,Tablet,43,42.2,1814.43,2025-03-27,Nao informado
+152,Cheyenne Horton,Bauchi,Phone,57,323.53,18441.01,2025-03-29,Direct
+153,David Douglas Jr.,lagos,Camera,36,651.72,23461.94,2024-12-24,Nao informado
+154,Patricia Rodriguez,Katsina,Laptop,33,1002.86,33094.38,2024-05-21,Nao informado
+155,Christopher Rubio,Sokoto,Camera,36,363.04,13069.53,2024-02-27,Direct
+156,Nao informado,Cross River,Monitor,36,491.68,17700.45,2024-06-27,Nao informado
+157,Amber Wright,Lagos,Keyboard,56,693.26,38822.73,2023-09-05,Online
+158,Joyce Solis,Rivers,Camera,36,567.12,20416.33,2024-12-26,Wholesale
+159,Victoria Larson,Osun,Keyboard,56,960.6,53793.61,2023-08-26,Nao informado
+160,Stephanie Salazar,Borno,Keyboard,47,687.54,32314.51,2023-11-10,Nao informado
+161,Kathy Rivas,Delta,Keyboard,56,146.49,8203.68,2024-06-16,Online
+162,Stephanie Manning,abuja,Phone,57,545.44,31090.2,2024-05-28,Online
+163,David Wright,Delta,Laptop,33,295.97,9767.11,2024-07-21,Retail
+164,Pamela Boyd,Plateau,Tablet,68,873.86,59422.69,2024-07-05,Wholesale
+165,Denise Jones,Kano,Camera,36,358.34,12900.37,2023-12-16,Retail
+166,Devon Flores,Kano,Monitor,36,790.09,28443.34,2024-03-31,Nao informado
+167,Brenda Hall,Cross River,Camera,36,700.78,25228.13,2024-10-24,Online
+168,Michelle Brown,Kano,Tablet,100,776.59,77659.25,2023-10-30,Nao informado
+169,Nao informado,Imo,Charger,46,16.99,781.54,2024-03-09,Direct
+170,Joshua Perry,Oyo,Keyboard,82,687.54,56378.51,2025-05-10,Wholesale
+171,Jason Stein,oyo,Charger,46,36.53,1680.242,2025-01-18,Direct
+172,Melissa Gates,Cross River,Monitor,36,319.9,11516.23,2024-03-15,Online
+173,Jamie Smith,Imo,Charger,46,72.89,3353.1240000000003,2025-01-31,Online
+174,Paul Castaneda,Kaduna,Charger,83,21.01,1743.5810000000001,2025-05-09,Online
+175,Jennifer Adkins,Anambra,Keyboard,31,660.53,20476.47,2024-04-04,Wholesale
+176,Lindsey Walker,Bauchi,Tablet,43,690.47,29690.39,2024-05-15,Retail
+177,Jeffrey Johnson,Katsina,Tablet,26,439.0,11413.99,2023-10-20,Nao informado
+178,Michael Powell,Niger,Tablet,78,462.95,36110.07,2025-02-20,Nao informado
+179,John Anderson,Enugu,Camera,36,355.37,12793.34,2024-04-23,Nao informado
+180,Alyssa Long,imo,Laptop,10,519.12,5191.24,2024-08-13,Nao informado
+181,Alyssa Day,Enugu,Camera,36,433.98,15623.22,2024-09-19,Nao informado
+182,Nao informado,Borno,Charger,46,104.64,4813.44,2023-10-01,Retail
+183,Joel Williams,Benue,Laptop,33,1060.25,34988.35,2024-03-14,Direct
+184,Daniel Murphy,Osun,Headphones,50,154.98,7748.85,2024-01-14,Wholesale
+185,Jamie Walton,Ekiti,Camera,36,1010.81,36389.05,2024-07-07,Direct
+186,Darlene Miller,Bauchi,Camera,36,9.16,329.91,2023-10-14,Direct
+187,Joshua Cooke,Ekiti,Keyboard,56,415.37,23260.71,2024-02-03,Nao informado
+188,Matthew Harrington,Rivers,Tablet,43,483.47,20789.22,2024-06-24,Nao informado
+189,Nicole Herring,delta,Tablet,41,289.67,11876.6,2024-01-19,Retail
+190,Alex Hernandez,Delta,Laptop,57,519.12,29590.07,2023-10-28,Wholesale
+191,Michael Elliott,Kano,Camera,36,357.2,12859.27,2023-09-24,Online
+192,Michael Wang,Sokoto,Tablet,43,629.81,27081.8,2023-08-19,Direct
+193,Lawrence Adkins,Lagos,Camera,36,619.48,22301.15,2024-02-21,Online
+194,Robert Oconnell,Plateau,Charger,46,28.38,1305.526,2024-05-04,Wholesale
+195,Nao informado,Imo,Headphones,65,389.47,25315.550000000003,2025-05-12,Direct
+196,Alexander Collins,Delta,Tablet,43,256.58,11033.0,2024-10-30,Online
+197,Tina Sanders,Plateau,Phone,58,721.81,41864.81,2024-05-30,Online
+198,Angela Vaughn,delta,Headphones,50,151.08,7553.85,2024-01-19,Retail
+199,Ashley Barton,Lagos,Tablet,37,174.01,6438.25,2025-05-13,Wholesale
+200,Lindsay Martinez,Kano,Phone,83,635.62,52756.4,2025-06-10,Wholesale
+201,Dr. Hannah Patterson,Abuja,Phone,57,741.52,42266.9,2023-11-12,Wholesale
+202,Jonathan Peterson,Delta,Tablet,43,997.09,42874.99,2025-04-02,Direct
+203,Samantha Garcia,Kano,Headphones,50,287.71,14385.45,2024-03-21,Retail
+204,Madison Poole,Abuja,Keyboard,56,831.84,46583.19,2025-07-05,Nao informado
+205,Jessica Gross,Sokoto,Laptop,33,746.07,24620.35,2024-10-01,Direct
+206,Debra Morton,Kano,Phone,57,690.46,39356.14,2025-01-21,Wholesale
+207,Karen Graham,bauchi,Tablet,43,1015.99,43687.71,2024-03-09,Direct
+208,Nao informado,Delta,Keyboard,56,398.09,22292.81,2023-12-05,Online
+209,Debra Christian,Anambra,Keyboard,65,239.92,15594.78,2025-02-22,Direct
+210,Angelica Keith,Cross River,Keyboard,56,687.54,38502.4,2023-11-11,Direct
+211,John Bishop,Enugu,Charger,46,103.4,4756.5380000000005,2024-08-01,Wholesale
+212,Allen Rosales,Imo,Headphones,92,155.21,14279.688,2024-08-13,Online
+213,Daniel Salinas,Oyo,Phone,57,492.36,28064.41,2024-07-07,Wholesale
+214,Spencer Haynes,Plateau,Tablet,23,1067.97,24563.2,2024-08-01,Online
+215,Adam Vaughan,Plateau,Keyboard,56,404.64,22659.97,2025-05-23,Online
+216,Nathan Freeman,cross river,Laptop,33,758.63,25034.87,2024-03-06,Online
+217,Melissa Brewer,Delta,Laptop,33,985.98,32537.26,2024-07-31,Wholesale
+218,Ricky Davis II,Cross River,Monitor,79,818.38,64651.65,2023-07-29,Online
+219,Elizabeth Perkins,Niger,Keyboard,56,866.51,48524.62,2023-09-18,Retail
+220,Joseph Coleman,Enugu,Laptop,33,519.12,17131.09,2024-05-11,Retail
+221,Nao informado,Rivers,Phone,57,891.97,50842.04,2024-08-06,Nao informado
+222,Erin Warner,Rivers,Headphones,50,246.97,12348.599999999999,2024-06-30,Retail
+223,David Martinez,Niger,Headphones,50,220.6,11030.1,2024-01-13,Nao informado
+224,Bryan Herrera,Osun,Tablet,43,644.21,27700.91,2023-12-25,Retail
+225,Cathy Robinson,niger,Laptop,33,850.74,28074.52,2024-10-06,Wholesale
+226,Dr. William Warren,Niger,Camera,36,568.4,20462.45,2024-04-10,Nao informado
+227,Brian Lee,Ekiti,Laptop,33,571.28,18852.12,2023-08-17,Direct
+228,Christopher Smith,Abuja,Monitor,36,391.88,14107.55,2023-08-19,Direct
+229,Denise Mccann,Rivers,Camera,36,990.77,35667.84,2024-02-14,Retail
+230,Melissa Martinez,Abuja,Monitor,78,510.29,39802.23,2024-07-29,Direct
+231,Katherine Salas,Benue,Keyboard,43,122.78,5279.69,2024-10-17,Retail
+232,Julie Alexander,Sokoto,Keyboard,56,895.38,50141.51,2025-05-26,Retail
+233,Anthony Everett,Rivers,Tablet,43,975.29,41937.64,2025-04-25,Direct
+234,Nao informado,delta,Monitor,36,219.77,7911.56,2024-11-30,Direct
+235,Rodney Morales,Enugu,Tablet,43,580.43,24958.36,2024-12-14,Online
+236,Mark Brown,Enugu,Phone,51,179.2,9139.4,2024-07-10,Nao informado
+237,Justin Torres,Imo,Laptop,33,923.11,30462.52,2024-02-17,Retail
+238,Bailey Duran DDS,Ekiti,Camera,36,478.19,17214.93,2024-08-30,Direct
+239,Courtney Mills,Oyo,Camera,36,735.29,26470.6,2023-07-17,Nao informado
+240,Jeremy Dalton,Niger,Tablet,43,573.24,24649.2,2025-04-29,Direct
+241,Elizabeth Oliver DDS,Kaduna,Laptop,33,774.78,25567.77,2023-10-02,Direct
+242,Theresa Clark,Anambra,Headphones,50,158.66,7932.75,2024-06-09,Online
+243,Matthew Moore,ekiti,Camera,36,970.98,34955.37,2023-10-23,Retail
+244,Benjamin Smith,Delta,Headphones,50,144.64,7231.8,2025-05-26,Retail
+245,Kirk Carter,Kano,Laptop,33,61.79,2038.95,2024-02-01,Wholesale
+246,Michael Warner,Ekiti,Headphones,50,144.06,7203.0,2025-01-26,Online
+247,Nao informado,Imo,Phone,57,449.71,25633.51,2024-04-20,Nao informado
+248,Michael Bradshaw,Rivers,Monitor,40,609.81,24392.36,2025-02-23,Online
+249,Lori Guerrero,Abuja,Keyboard,56,604.3,33840.53,2024-05-19,Nao informado
+250,Jessica Stephens,Imo,Keyboard,56,687.54,38502.4,2024-04-20,Retail
+251,Susan Serrano,Lagos,Tablet,25,727.18,18179.45,2023-08-15,Wholesale
+252,Christopher Parker,kano,Phone,18,334.07,6013.23,2024-05-17,Wholesale
+253,Laura Roberts,Delta,Camera,36,25.27,909.82,2023-08-19,Retail
+254,Michael Lyons,Kaduna,Tablet,43,276.16,11874.7,2024-09-25,Direct
+255,Kathryn Snyder,Niger,Tablet,43,5.05,217.2,2024-09-19,Online
+256,Andrew Reynolds,Cross River,Keyboard,56,236.74,13257.51,2023-12-09,Wholesale
+257,David Davis,Cross River,Laptop,33,80.54,2657.83,2024-04-17,Direct
+258,Sara Johnston,Enugu,Camera,36,458.63,16510.7,2024-09-12,Nao informado
+259,Yvonne Chambers,Benue,Tablet,43,756.95,32549.06,2024-02-20,Wholesale
+260,Nao informado,Abuja,Camera,49,450.51,22075.22,2023-09-06,Nao informado
+261,Andrew Avila,kaduna,Monitor,21,585.28,12290.93,2024-05-06,Direct
+262,Matthew Moon,Benue,Laptop,33,66.77,2203.33,2024-08-05,Nao informado
+263,Kevin Walters,Lagos,Camera,36,965.95,34774.07,2024-06-24,Direct
+264,Brandon Bailey MD,Benue,Headphones,57,319.52,18212.355,2025-02-23,Nao informado
+265,Shannon Rivera,Anambra,Tablet,43,510.79,21963.85,2024-09-10,Online
+266,Donna Landry,Ekiti,Headphones,50,311.34,15566.999999999998,2024-02-13,Wholesale
+267,Krista Gibson,Borno,Laptop,33,195.86,6463.24,2025-04-12,Wholesale
+268,Frank Cordova,Niger,Phone,57,147.82,8425.71,2024-11-06,Direct
+269,Jose Travis,Imo,Headphones,50,208.05,10402.35,2024-12-20,Nao informado
+270,Kimberly Gutierrez,cross river,Tablet,58,573.24,33247.76,2024-10-27,Retail
+271,Isaiah Avila,Oyo,Tablet,69,788.12,54380.28,2023-10-11,Wholesale
+272,Olivia Harris,Enugu,Keyboard,56,1040.95,58293.22,2023-10-18,Nao informado
+273,Nao informado,Borno,Laptop,33,405.54,13382.94,2023-09-24,Nao informado
+274,Tanya Kim,Enugu,Keyboard,56,962.84,53918.81,2024-05-11,Online
+275,Barbara Dudley,Abuja,Tablet,43,485.41,20872.75,2024-04-25,Retail
+276,Cynthia Moore,Plateau,Monitor,36,990.63,35662.81,2025-03-19,Wholesale
+277,Kristen Davis,Imo,Tablet,43,408.82,17579.11,2024-03-30,Online
+278,Susan Murray MD,Abuja,Keyboard,56,88.33,4946.23,2024-09-16,Retail
+279,Kathleen Moran,sokoto,Keyboard,54,1041.34,56232.39,2025-07-09,Wholesale
+280,Denise Davenport,Abuja,Laptop,33,519.12,17131.09,2024-04-19,Online
+281,Mrs. Kristen Reyes,Abuja,Phone,57,944.74,53850.4,2025-02-16,Retail
+282,Katie Suarez,Plateau,Monitor,36,145.19,5226.83,2023-10-31,Wholesale
+283,Desiree Tyler,Cross River,Charger,46,92.94,4275.0560000000005,2023-12-12,Retail
+284,Timothy Romero,Bauchi,Tablet,71,129.71,9209.43,2024-10-20,Nao informado
+285,Diane Evans,Bauchi,Phone,57,1072.29,61120.38,2024-08-09,Direct
+286,Nao informado,Kaduna,Laptop,33,425.6,14044.66,2024-05-17,Direct
+287,Yvonne Burns,Abuja,Camera,11,139.11,1530.16,2024-08-02,Nao informado
+288,Joshua Reed,bauchi,Phone,57,1057.06,60252.46,2023-08-11,Retail
+289,Kimberly Gibson,Kano,Tablet,66,901.9,59525.71,2023-08-15,Nao informado
+290,Colin Terry,Kaduna,Phone,56,635.62,35594.68,2023-08-10,Direct
+291,Cynthia Rowe,Kano,Headphones,50,245.13,12256.65,2023-10-25,Direct
+292,Patrick Thornton,Katsina,Keyboard,45,1056.81,47556.39,2025-01-15,Retail
+293,Jasmin Alvarado,Kano,Keyboard,54,501.01,27054.58,2024-03-25,Direct
+294,Veronica Simpson,Delta,Tablet,43,777.13,33416.47,2025-03-26,Nao informado
+295,Jonathan Lawrence,Benue,Headphones,48,137.73,6610.895999999999,2024-07-12,Retail
+296,Shelly Alexander,Rivers,Monitor,50,410.74,20536.79,2024-08-17,Nao informado
+297,Joyce Bowen,plateau,Keyboard,48,249.42,11972.34,2024-06-29,Retail
+298,Matthew Moore,Delta,Laptop,33,498.45,16448.72,2023-11-03,Direct
+299,Nao informado,Plateau,Keyboard,56,169.05,9466.9,2024-10-23,Wholesale
+300,Wayne Morgan,Katsina,Charger,46,52.64,2421.6240000000003,2025-06-03,Retail
+301,Marie Christian,Abuja,Monitor,19,205.02,3895.37,2024-08-14,Retail
+302,Shannon James,Katsina,Charger,46,94.55,4349.070000000001,2023-10-27,Wholesale
+303,Nathan Malone,Kano,Charger,46,82.72,3804.8900000000003,2024-03-21,Direct
+304,Amanda Jones,Niger,Laptop,33,36.54,1205.71,2025-07-03,Nao informado
+305,Tammie Bright,Plateau,Headphones,50,214.09,10704.45,2024-10-29,Online
+306,Jessica Garcia,plateau,Charger,79,66.48,5251.999,2024-03-14,Wholesale
+307,Shelia Wallace,Bauchi,Monitor,11,1011.25,11123.77,2023-11-14,Online
+308,Stephanie Williams,Sokoto,Keyboard,33,960.36,31692.02,2024-05-11,Direct
+309,Elaine Brooks,Anambra,Tablet,43,261.29,11235.32,2024-10-31,Retail
+310,Joseph Knight,Enugu,Monitor,36,510.29,18370.26,2025-02-04,Retail
+311,Carolyn Miller,Sokoto,Phone,57,74.35,4238.12,2025-04-25,Direct
+312,Nao informado,Delta,Keyboard,56,642.19,35962.67,2024-02-28,Nao informado
+313,Lisa Allen,Anambra,Laptop,33,483.15,15944.04,2024-10-14,Nao informado
+314,Briana Murray,Benue,Charger,16,72.64,1162.208,2024-03-28,Direct
+315,David Smith,oyo,Tablet,43,942.22,40515.44,2024-08-08,Direct
+316,Stephanie Byrd,Borno,Charger,46,26.57,1222.082,2025-04-14,Direct
+317,Jeremy Reed,Ekiti,Laptop,59,49.5,2920.27,2024-08-09,Direct
+318,Margaret Coleman,Sokoto,Monitor,36,475.09,17103.23,2024-08-27,Direct
+319,Ryan Gonzalez,Kano,Phone,57,583.77,33274.83,2024-07-25,Direct
+320,John Young,Lagos,Keyboard,56,687.54,38502.4,2025-01-11,Retail
+321,Laura Haney,Ekiti,Monitor,36,815.18,29346.43,2024-09-20,Online
+322,William Barrett,Katsina,Phone,57,838.55,47797.45,2024-02-28,Nao informado
+323,Keith Jennings,Plateau,Camera,36,152.89,5504.19,2024-07-13,Online
+324,Amber Obrien,rivers,Charger,55,107.3,5901.335000000001,2025-04-04,Retail
+325,Nao informado,Kano,Keyboard,56,254.27,14239.28,2023-07-23,Wholesale
+326,Tanner Mitchell DDS,Imo,Keyboard,56,989.86,55432.12,2024-04-22,Online
+327,Heather Fields,Enugu,Phone,54,622.96,33639.96,2024-03-24,Wholesale
+328,Megan Le,Bauchi,Camera,36,624.43,22479.6,2024-12-15,Retail
+329,Sara Fuller,Anambra,Tablet,43,834.75,35894.28,2023-10-04,Nao informado
+330,Maria Parker,Oyo,Headphones,47,163.49,7683.795000000001,2024-05-29,Wholesale
+331,Kevin Oconnor,Osun,Tablet,43,884.18,38019.74,2024-10-06,Retail
+332,Edward Burgess,Kano,Keyboard,56,257.23,14404.88,2024-03-05,Direct
+333,Carlos Ryan,delta,Keyboard,71,946.58,67207.3,2025-03-20,Nao informado
+334,Kiara Mcintyre,Osun,Laptop,33,1064.58,35131.04,2025-06-08,Direct
+335,Dawn Summers,Borno,Phone,57,563.81,32137.33,2025-01-24,Nao informado
+336,Dr. Paul Morgan,Kaduna,Camera,36,447.7,16117.22,2025-05-18,Nao informado
+337,Victor Taylor,Ekiti,Headphones,50,298.47,14923.500000000002,2024-12-26,Online
+338,Nao informado,Imo,Tablet,43,602.05,25888.3,2024-11-10,Nao informado
+339,Shannon Ramsey,Borno,Phone,57,639.74,36464.92,2023-07-31,Online
+340,Tracy Ballard,Katsina,Monitor,36,510.29,18370.26,2024-10-16,Wholesale
+341,Richard Smith,Bauchi,Laptop,33,794.51,26218.69,2024-07-13,Nao informado
+342,Jordan Chambers,lagos,Camera,36,190.63,6862.63,2024-02-02,Wholesale
+343,Lauren Carson,Imo,Laptop,33,733.63,24209.74,2024-12-01,Nao informado
+344,Ashley Hall,Borno,Keyboard,18,601.12,10820.13,2025-03-10,Online
+345,Stephen Hoffman,Rivers,Laptop,33,52.35,1727.56,2025-03-04,Direct
+346,Connie Brown,Oyo,Headphones,50,373.15,18657.5,2024-10-02,Nao informado
+347,Susan Turner,Anambra,Keyboard,56,695.42,38943.71,2024-10-01,Retail
+348,Charles Shah,Rivers,Tablet,43,412.76,17748.72,2024-01-03,Direct
+349,Johnathan Davis,Rivers,Tablet,43,567.28,24392.87,2025-01-21,Online
+350,Brandy Chavez,Imo,Monitor,24,510.29,12246.84,2023-08-19,Retail
+351,Nao informado,oyo,Keyboard,56,752.56,42143.34,2024-10-06,Wholesale
+352,Natalie Bautista,Anambra,Keyboard,56,441.99,24751.16,2024-07-18,Online
+353,Patrick Moore,Borno,Camera,36,325.14,11705.03,2023-11-20,Direct
+354,Brett Burns,Katsina,Keyboard,26,200.06,5201.52,2024-08-21,Wholesale
+355,Trevor Johnson,Enugu,Headphones,26,174.54,4537.9619999999995,2024-11-10,Wholesale
+356,Jeremy Sampson,Sokoto,Monitor,36,261.61,9418.03,2025-01-21,Online
+357,Ariana Jennings,Enugu,Camera,36,244.77,8811.59,2024-11-03,Direct
+358,Vanessa Howard,Anambra,Headphones,50,277.92,13895.999999999998,2025-03-03,Online
+359,Colton Martinez,Bauchi,Laptop,33,157.44,5195.52,2025-04-24,Retail
+360,Jordan Bates,cross river,Tablet,43,573.24,24649.2,2024-05-01,Retail
+361,Linda Smith,Anambra,Monitor,36,501.03,18037.21,2023-11-02,Nao informado
+362,Dana Martinez,Abuja,Charger,46,63.93,2940.78,2025-04-09,Wholesale
+363,Andrea Hubbard,Kano,Tablet,43,446.75,19210.2,2024-12-20,Nao informado
+364,Nao informado,Niger,Phone,35,450.88,15780.76,2024-01-15,Direct
+365,Daniel Kane,Anambra,Tablet,43,573.24,24649.2,2023-08-04,Retail
+366,Charles Lester,Abuja,Tablet,43,420.59,18085.52,2024-09-27,Nao informado
+367,Scott Thomas,Lagos,Keyboard,56,276.74,15497.23,2025-01-05,Retail
+368,David Thompson,Sokoto,Headphones,44,357.89,15747.16,2023-10-04,Retail
+369,Allison Smith,oyo,Keyboard,56,87.05,4875.01,2023-12-06,Retail
+370,Cynthia Morris,Anambra,Keyboard,56,687.54,38502.4,2023-07-25,Online
+371,Anthony Harmon,Kaduna,Charger,46,48.68,2239.096,2024-06-17,Nao informado
+372,Nichole Alvarez,Ekiti,Charger,46,40.19,1848.7399999999998,2024-03-10,Wholesale
+373,Kayla Rodriguez,Imo,Monitor,55,579.32,31862.72,2024-05-31,Nao informado
+374,Theresa Williams,Niger,Keyboard,56,896.07,50179.69,2023-11-05,Wholesale
+375,Sharon Boyd,Imo,Charger,46,57.37,2639.02,2024-05-26,Nao informado
+376,Victor Brown,Lagos,Camera,36,408.46,14704.65,2024-12-28,Nao informado
+377,Nao informado,Rivers,Camera,14,654.08,9157.09,2023-12-16,Retail
+378,James Parks,kano,Monitor,36,44.44,1599.85,2024-05-24,Wholesale
+379,Theodore Jones Jr.,Oyo,Camera,36,80.28,2889.94,2024-08-03,Wholesale
+380,Ana Hill,Imo,Monitor,36,510.29,18370.26,2025-03-03,Wholesale
+381,Kimberly Nguyen,Abuja,Phone,57,869.37,49554.33,2024-10-27,Nao informado
+382,Kerry Chavez DDS,Osun,Charger,46,63.53,2922.5180000000005,2025-06-24,Wholesale
+383,Michael Farrell,Plateau,Keyboard,56,725.76,40642.45,2024-07-11,Nao informado
+384,Patricia Le,Imo,Monitor,58,235.79,13675.66,2025-05-18,Online
+385,Jesse Perez,Oyo,Monitor,36,227.02,8172.87,2025-04-29,Retail
+386,Jesse Perry,Niger,Headphones,50,293.93,14696.4,2025-02-01,Direct
+387,Jeffery Ortega,oyo,Keyboard,56,328.7,18407.05,2025-01-25,Online
+388,Christian Leblanc,Abuja,Phone,8,981.88,7855.02,2023-08-28,Wholesale
+389,Ronald Davis,Borno,Headphones,50,230.17,11508.5,2025-01-09,Retail
+390,Nao informado,Osun,Charger,46,52.64,2421.6240000000003,2023-10-26,Retail
+391,Parker Cain,Abuja,Laptop,33,206.68,6820.56,2024-08-16,Retail
+392,Laurie Hoffman,Osun,Keyboard,87,801.26,69709.49,2023-12-19,Retail
+393,Bryan Gomez,Enugu,Laptop,4,807.09,3228.34,2024-09-18,Wholesale
+394,Nicole Parrish,Delta,Keyboard,56,815.12,45646.69,2024-03-19,Retail
+395,Tracy Burke,Rivers,Phone,57,987.75,56301.78,2024-12-06,Direct
+396,Kenneth Lewis,osun,Headphones,17,225.55,3834.282,2024-07-16,Direct
+397,Courtney Rodriguez,Imo,Monitor,36,760.6,27381.72,2024-08-22,Retail
+398,Holly Farmer,Niger,Headphones,50,128.83,6441.749999999999,2024-04-28,Nao informado
+399,Renee Bruce,Katsina,Laptop,33,259.85,8574.94,2024-03-10,Wholesale
+400,Sabrina Austin,Oyo,Keyboard,56,687.54,38502.4,2023-11-22,Direct
+401,Allison Hickman,Delta,Tablet,43,348.57,14988.31,2024-07-02,Direct
+402,Debra White,Kaduna,Charger,46,30.7,1412.154,2025-06-18,Direct
+403,Nao informado,Kaduna,Monitor,36,504.51,18162.4,2024-08-28,Online
+404,Ellen Morgan,Niger,Laptop,98,701.25,68722.63,2024-04-01,Online
+405,Sergio Knight,lagos,Charger,74,33.43,2474.116,2024-09-07,Direct
+406,Charles Schultz,Kaduna,Monitor,36,389.57,14024.48,2024-04-11,Nao informado
+407,Paul Lewis,Sokoto,Charger,46,95.36,4386.790000000001,2024-12-16,Wholesale
+408,Glen Wood,Niger,Keyboard,56,504.25,28237.75,2025-03-01,Wholesale
+409,Paula Bradley,Delta,Phone,32,867.4,27756.7,2025-05-14,Direct
+410,Anthony Moore,Anambra,Laptop,33,519.12,17131.09,2025-01-20,Direct
+411,Megan Nelson,Kaduna,Camera,36,780.71,28105.43,2024-12-20,Wholesale
+412,Karla Ramos,Rivers,Tablet,43,822.99,35388.5,2024-11-21,Nao informado
+413,Paul Wilson,Benue,Camera,72,347.08,24989.44,2025-03-26,Online
+414,Douglas Gregory,abuja,Laptop,33,220.81,7286.8,2024-12-30,Online
+415,Mr. Andrew Foster,Cross River,Monitor,36,339.19,12210.93,2024-02-01,Direct
+416,Nao informado,Delta,Laptop,33,51.09,1685.98,2024-10-26,Wholesale
+417,Aimee Turner,Enugu,Laptop,33,933.46,30804.06,2024-07-21,Online
+418,Chad Scott,Ekiti,Keyboard,63,801.02,50464.15,2023-12-07,Nao informado
+419,Adam Burgess,Osun,Headphones,16,19.29,308.64,2024-01-18,Direct
+420,James Padilla,Borno,Tablet,43,573.24,24649.2,2024-02-12,Retail
+421,Sandra Drake,Delta,Phone,57,598.38,34107.69,2024-09-16,Direct
+422,Scott Williams,Delta,Phone,57,631.5,35995.68,2024-02-27,Retail
+423,Thomas Atkins,lagos,Charger,46,77.81,3579.3520000000008,2024-01-01,Direct
+424,Laura Mckinney,Enugu,Phone,57,320.08,18244.35,2024-02-27,Wholesale
+425,Brian Smith,Benue,Tablet,91,213.33,19413.39,2025-02-28,Wholesale
+426,Robert Montgomery,Sokoto,Charger,46,24.98,1149.126,2024-02-20,Wholesale
+427,Tamara Davis,Anambra,Charger,46,61.62,2834.29,2025-01-08,Wholesale
+428,Dana Chapman,Kano,Monitor,36,266.75,9602.86,2023-12-18,Nao informado
+429,Nao informado,Anambra,Headphones,50,178.65,8932.5,2024-12-28,Nao informado
+430,Jennifer Collins,Osun,Camera,82,450.51,36942.21,2025-01-08,Retail
+431,Gary Jackson,Bauchi,Monitor,36,1019.04,36685.56,2024-07-24,Nao informado
+432,Ashley Hicks,benue,Headphones,29,365.76,10607.039999999999,2024-03-13,Direct
+433,Hannah Luna,Imo,Headphones,26,247.46,6433.908,2024-07-17,Wholesale
+434,Robin Young,Sokoto,Headphones,50,158.59,7929.45,2024-04-06,Online
+435,Craig Morrison,Lagos,Laptop,33,781.94,25804.03,2024-09-18,Online
+436,Mary Thompson,Rivers,Monitor,36,799.23,28772.29,2025-07-05,Online
+437,Kathleen Webster,Anambra,Camera,36,498.67,17951.97,2025-07-05,Direct
+438,Joann Glass,Kaduna,Keyboard,71,791.88,56223.13,2025-03-19,Online
+439,Madison Weber,Plateau,Headphones,79,381.52,30140.079999999998,2025-01-21,Online
+440,Lori Hernandez,Anambra,Camera,36,450.51,16218.53,2024-02-08,Retail
+441,Jeremy Turner,abuja,Keyboard,56,152.7,8551.38,2024-02-19,Direct
+442,Nao informado,Rivers,Tablet,43,591.09,25416.71,2023-10-13,Direct
+443,Anthony Romero,Katsina,Keyboard,56,200.24,11213.46,2024-09-28,Online
+444,Jesse Brown,Niger,Tablet,43,960.71,41310.65,2024-12-17,Direct
+445,Angela Lin,Osun,Phone,74,1069.57,79147.95,2024-09-04,Retail
+446,Lisa Hunter,Sokoto,Keyboard,56,1033.89,57898.0,2024-04-30,Retail
+447,Julian Conner,Niger,Tablet,83,566.72,47037.5,2025-06-05,Wholesale
+448,Joanna Pacheco,Katsina,Headphones,50,271.94,13597.2,2024-05-12,Retail
+449,Erica Alvarez,Bauchi,Laptop,33,81.94,2704.12,2025-04-06,Wholesale
+450,Antonio Garcia,rivers,Keyboard,45,687.54,30939.43,2024-04-04,Online
+451,Gwendolyn Klein,Benue,Charger,46,88.38,4065.2960000000003,2025-03-02,Wholesale
+452,Carrie Wright,Plateau,Tablet,43,54.11,2326.65,2025-03-26,Wholesale
+453,Jeffrey Mills,Enugu,Monitor,24,8.68,208.39,2023-11-01,Online
+454,Jake Campbell,Anambra,Tablet,43,150.04,6451.86,2024-02-21,Wholesale
+455,Nao informado,Abuja,Keyboard,8,681.82,5454.58,2023-08-12,Retail
+456,George Harper,Niger,Tablet,67,75.08,5030.56,2024-02-19,Online
+457,Maria Jones,Lagos,Camera,39,164.64,6420.97,2025-01-15,Direct
+458,Michael Mitchell,Bauchi,Monitor,36,237.62,8554.45,2023-09-10,Wholesale
+459,Mary Escobar,imo,Keyboard,91,493.47,44905.73,2024-04-05,Retail
+460,Felicia Aguilar,Enugu,Laptop,33,519.12,17131.09,2025-06-27,Direct
+461,Gregory Ponce,Osun,Camera,37,66.98,2478.16,2024-06-18,Online
+462,Jenna Larson,Niger,Monitor,33,689.4,22750.17,2024-12-01,Online
+463,Emily Bennett,Kano,Charger,46,100.87,4640.158,2024-01-26,Online
+464,Robin Santiago,Sokoto,Tablet,36,985.93,35493.43,2025-02-10,Retail
+465,Nancy Jennings,Katsina,Tablet,43,712.64,30643.54,2024-07-17,Direct
+466,Maria Henderson,Sokoto,Phone,57,18.76,1069.43,2023-12-24,Online
+467,Jack White,Rivers,Monitor,36,575.63,20722.73,2023-12-14,Retail
+468,Nao informado,borno,Tablet,83,445.31,36960.33,2025-04-14,Nao informado
+469,Travis Tucker,Bauchi,Phone,57,19.83,1130.55,2024-09-01,Retail
+470,Chad Jones,Borno,Phone,20,635.62,12712.39,2024-02-06,Nao informado
+471,Ashley Wise,Niger,Keyboard,56,780.47,43706.22,2025-07-04,Direct
+472,Sophia Johnson,Sokoto,Tablet,43,579.43,24915.61,2024-09-19,Online
+473,Ralph Anderson,Benue,Camera,36,310.91,11192.67,2025-01-01,Online
+474,Christopher Guerra,Borno,Charger,6,54.33,325.974,2024-02-06,Wholesale
+475,Rhonda Martin,Imo,Camera,11,754.23,8296.55,2023-10-25,Online
+476,Jason Rhodes,Oyo,Camera,36,466.04,16777.59,2023-10-03,Direct
+477,Jeremy Mitchell,enugu,Tablet,43,1015.0,43644.89,2024-10-31,Retail
+478,Joann Ferguson,Niger,Headphones,50,195.09,9754.5,2025-02-05,Direct
+479,Robert Harrison,Benue,Laptop,33,991.64,32724.13,2024-10-08,Online
+480,Holly Valentine,Kaduna,Phone,82,635.62,52120.79,2024-01-12,Retail
+481,Nao informado,Katsina,Tablet,43,567.19,24389.27,2024-01-15,Direct
+482,Mrs. Diane Reyes,Plateau,Keyboard,56,261.61,14650.31,2023-08-19,Online
+483,Tracy Montoya,Borno,Phone,57,670.05,38192.72,2024-12-12,Online
+484,Brenda Wright,Benue,Charger,62,27.4,1698.5520000000001,2025-06-13,Online
+485,Shelly Spencer,Imo,Headphones,50,383.96,19198.0,2024-08-26,Wholesale
+486,Ryan Rosales,lagos,Laptop,33,858.9,28343.71,2024-01-02,Wholesale
+487,Phillip Nelson,Borno,Tablet,43,87.0,3740.94,2024-11-17,Wholesale
+488,Brittany Kim,Borno,Charger,8,103.61,828.8879999999999,2024-01-07,Retail
+489,Courtney Hayes,Enugu,Monitor,36,496.69,17880.89,2023-08-20,Direct
+490,Alexander Brown,Niger,Headphones,50,163.49,8174.250000000001,2023-09-26,Retail
+491,Cynthia Vang,Plateau,Camera,36,264.03,9504.96,2024-05-27,Retail
+492,Alfred Galvan,Katsina,Headphones,78,226.07,17633.304,2024-03-23,Online
+493,Marie Moody,Sokoto,Charger,46,32.52,1496.0580000000002,2025-01-18,Nao informado
+494,Nao informado,Ekiti,Tablet,43,894.62,38468.51,2024-07-11,Nao informado
+495,Dustin Gallegos,ekiti,Headphones,50,88.72,4436.0,2023-09-27,Online
+496,Brenda Thornton,Ekiti,Tablet,43,1071.02,46054.02,2024-12-21,Nao informado
+497,Aaron Miller,Enugu,Keyboard,56,702.52,39340.91,2025-02-28,Retail
+498,Ruben Dunn,Bauchi,Tablet,43,35.96,1546.38,2023-10-25,Direct
+499,Kelsey Rodriguez,Cross River,Charger,46,43.88,2018.342,2023-07-15,Wholesale
+500,Eric Williams,Kaduna,Laptop,33,519.12,17131.09,2024-09-10,Retail
+501,Riley Bryant,Kano,Keyboard,58,408.46,23690.93,2025-07-01,Retail
+502,Taylor Carlson,Borno,Laptop,19,515.03,9785.55,2023-11-10,Direct
+503,Jose Allen,Bauchi,Headphones,50,206.5,10325.1,2024-05-22,Nao informado
+504,Jeffrey Mendez,katsina,Camera,36,759.61,27345.87,2024-11-29,Direct
+505,Jason Beck,Sokoto,Monitor,54,90.95,4911.42,2025-07-06,Retail
+506,William Jones,Kano,Charger,46,91.32,4200.858,2025-05-25,Online
+507,Nao informado,Delta,Laptop,33,697.14,23005.59,2025-05-23,Online
+508,Katie Mcneil,Borno,Monitor,41,358.98,14718.02,2024-07-14,Retail
+509,Jeanette Harrison,Delta,Phone,98,1055.56,103444.52,2024-07-15,Online
+510,Veronica King,Enugu,Tablet,43,573.24,24649.2,2024-11-27,Nao informado
+511,Richard Cooper,Oyo,Laptop,33,1051.79,34709.2,2023-12-12,Direct
+512,Lori Ingram,Lagos,Keyboard,56,966.56,54127.58,2025-02-17,Wholesale
+513,Evelyn Williams,abuja,Charger,3,99.28,297.84900000000005,2024-02-19,Direct
+514,Robin Thompson,Delta,Tablet,43,249.53,10729.97,2024-03-16,Wholesale
+515,Julie Dominguez,Cross River,Monitor,59,973.55,57439.6,2024-02-17,Retail
+516,Robin Brown,Katsina,Charger,46,74.82,3441.812,2024-11-23,Retail
+517,Judith Carter,Kano,Laptop,46,612.91,28193.71,2023-08-25,Wholesale
+518,Curtis Williams,Ekiti,Camera,36,294.09,10587.41,2025-06-15,Online
+519,Kaylee Hays,Niger,Keyboard,56,998.23,55900.8,2025-02-27,Retail
+520,Nao informado,Plateau,Phone,57,635.62,36230.3,2023-09-18,Nao informado
+521,Dawn Mullins,Enugu,Charger,46,73.98,3402.8500000000004,2024-11-28,Nao informado
+522,Howard Norman,benue,Camera,69,304.1,20982.78,2024-09-28,Nao informado
+523,Evelyn Martinez,Cross River,Laptop,33,587.3,19380.76,2024-01-07,Nao informado
+524,Steve Paul,Benue,Keyboard,56,711.37,39836.91,2024-08-29,Wholesale
+525,Jasmine Beltran,Delta,Tablet,43,195.18,8392.74,2025-02-03,Online
+526,Jonathan Glass MD,Oyo,Monitor,36,918.73,33074.32,2025-01-22,Wholesale
+527,Monica Miller,Lagos,Laptop,47,18.68,878.08,2025-05-01,Retail
+528,Samantha Gardner,Rivers,Headphones,52,225.16,11708.32,2025-07-07,Nao informado
+529,Bobby Guerrero,Niger,Phone,57,157.27,8964.24,2023-08-08,Nao informado
+530,Lance Simmons,Delta,Phone,57,635.62,36230.3,2025-06-19,Nao informado
+531,Heather Williams,kaduna,Tablet,43,886.67,38126.76,2025-06-25,Retail
+532,Heather Bolton,Bauchi,Keyboard,56,886.9,49666.23,2023-11-23,Direct
+533,Nao informado,Ekiti,Laptop,33,1003.31,33109.33,2024-05-30,Wholesale
+534,William Gould,Abuja,Laptop,33,324.48,10707.85,2025-05-26,Online
+535,Mark Cox,Imo,Camera,36,609.86,21954.95,2025-04-21,Retail
+536,Meghan Cisneros,Delta,Headphones,50,183.84,9192.15,2023-11-24,Direct
+537,Lawrence Harrington,Rivers,Monitor,16,917.67,14682.7,2025-07-05,Direct
+538,Austin Osborne,Ekiti,Keyboard,56,731.78,40979.63,2025-06-24,Online
+539,James Bradley,Oyo,Charger,46,58.46,2689.2980000000002,2023-08-08,Retail
+540,Meghan Rush,ekiti,Monitor,36,510.29,18370.26,2025-04-20,Direct
+541,Phillip Berry,Bauchi,Headphones,97,124.7,12095.706,2024-05-14,Nao informado
+542,Jennifer Banks,Imo,Monitor,36,799.39,28778.16,2025-03-14,Online
+543,Brian Fitzgerald,Katsina,Laptop,33,854.12,28185.8,2024-07-29,Nao informado
+544,Mr. Justin Green III,Sokoto,Keyboard,65,745.01,48425.95,2023-12-02,Online
+545,Zachary Mitchell,Ekiti,Monitor,6,86.36,518.16,2025-07-07,Wholesale
+546,Nao informado,Katsina,Tablet,43,805.55,34638.7,2025-02-11,Wholesale
+547,Katherine Martinez,Bauchi,Phone,57,374.71,21358.23,2025-05-18,Retail
+548,Jodi Roach,Niger,Charger,46,107.12,4927.52,2025-06-29,Direct
+549,Brandon Fleming,imo,Camera,36,252.1,9075.52,2024-02-20,Nao informado
